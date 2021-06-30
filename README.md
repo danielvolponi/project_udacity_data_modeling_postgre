@@ -70,7 +70,7 @@ This project makes the folowing assumptions:
 - pandas and psycopg2 are available
 - A PosgreSQL database is available on localhost
 
-## **Running Script**
+### **Running Script**
 
 At the terminal:
 
